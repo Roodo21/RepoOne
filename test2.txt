@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4EA8-B67E
+
+ Directory of C:\Users\raja.a.ganesh\IdeaProjects\demo
+
+08/11/2022  12:40 PM    <DIR>          .
+08/10/2022  06:02 PM    <DIR>          ..
+08/10/2022  11:36 AM    <DIR>          .idea
+08/11/2022  12:14 PM                12 New Text Document.txt
+08/10/2022  11:16 AM    <DIR>          src
+08/10/2022  11:24 AM    <DIR>          target
+08/11/2022  12:40 PM                 0 test2.txt
+               2 File(s)             12 bytes
+               5 Dir(s)  90,452,283,392 bytes free
